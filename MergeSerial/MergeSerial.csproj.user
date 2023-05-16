@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\mex-app-001\MEI_Apps\SetupApogeePair\|\\mex-app-001\MEI_Apps\SetupApogeePairSN&amp;AC\|\\mex-app-001\MEI_Apps\test\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\mex-app-001\MEI_Apps\SetupApogeePair\|\\mex-app-001\MEI_Apps\SetupApogeePairSN&amp;AC\|\\mex-app-001\MEI_Apps\test\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\mex-app-001\MEI_Apps\SetupApogeePairSN&amp;AC\|\\mex-app-001\MEI_Apps\test\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

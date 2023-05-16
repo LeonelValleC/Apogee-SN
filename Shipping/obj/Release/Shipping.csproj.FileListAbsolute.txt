@@ -1,0 +1,16 @@
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\bin\Release\Shipping.exe.config
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\bin\Release\Shipping.exe.manifest
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\bin\Release\Shipping.application
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\bin\Release\Shipping.exe
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\bin\Release\Shipping.pdb
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.csproj.AssemblyReference.cache
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.Form1.resources
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.Reports.resources
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.Upload.resources
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.exe.manifest
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.application
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.exe
+C:\Users\leonel.valle\source\repos\Apogee-SN\Shipping\obj\Release\Shipping.pdb
